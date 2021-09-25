@@ -1,8 +1,0 @@
-1.) White line is integrator
-2.) Blue line is Comparator
-3.) Red line is input
-
-Left to do 
-1.) Figure out how to stop 555 timer when blue line ( comparator ) crosses to negative 
-2.) change values to work with real life values 
-
